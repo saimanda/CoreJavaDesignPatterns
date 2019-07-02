@@ -1,7 +1,8 @@
 
-
 out/
 target/
 .gradle/
 gradle/
-setttings.gradle
+gradlew
+gradlew.bat
+settings.gradle
