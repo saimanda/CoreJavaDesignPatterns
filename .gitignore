@@ -2,7 +2,3 @@
 out/
 target/
 .idea/
-AbstractFactoryDP/out/
-AbstractFactoryDP/gradle/
-FactoryDesignPattern/out/
-FactoryDesignPattern/gradle/
