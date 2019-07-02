@@ -1,0 +1,8 @@
+
+out/
+target/
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
